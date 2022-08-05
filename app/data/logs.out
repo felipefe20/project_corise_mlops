@@ -1,0 +1,31 @@
+2022-08-04 20:52:45.494 | INFO     | server:startup_event:163 - Setup completed
+2022-08-04 20:54:01.420 | INFO     | server:predict:196 - timestamp
+2022-08-04 20:54:01.427 | INFO     | server:predict:197 - request
+2022-08-04 20:54:01.430 | DEBUG    | server:predict:198 - Computer glitches which led to chaos for HSBC customers on Monday are fixed, the High Street bank confirms.
+2022-08-04 20:54:01.437 | INFO     | server:predict:199 - latency
+2022-08-04 20:54:45.147 | INFO     | server:predict:203 - prediciton
+2022-08-04 20:54:45.159 | DEBUG    | server:predict:204 - Sci/Tech
+2022-08-04 20:57:37.348 | INFO     | server:predict:196 - timestamp
+2022-08-04 20:57:37.351 | INFO     | server:predict:197 - request
+2022-08-04 20:57:37.354 | DEBUG    | server:predict:198 - Bill Belichick won't have to worry about Charlie Weis raiding his coaching staff for Notre Dame. But we'll have to see whether new Miami Dolphins coach Nick Saban has an eye on any of his former assistants.
+2022-08-04 20:57:37.360 | INFO     | server:predict:199 - latency
+2022-08-04 20:57:39.599 | INFO     | server:predict:203 - prediciton
+2022-08-04 20:57:39.601 | DEBUG    | server:predict:204 - Sports
+2022-08-04 20:57:52.864 | INFO     | server:predict:196 - timestamp
+2022-08-04 20:57:52.866 | INFO     | server:predict:197 - request
+2022-08-04 20:57:52.885 | DEBUG    | server:predict:198 - Richard Scrushy once sat down to talk with 60 Minutes correspondent Mike Wallace about allegations that Scrushy started a huge fraud while chief executive of rehabilitation giant HealthSouth Corp. Now, Scrushy wants Wallace to do the talking.
+2022-08-04 20:57:52.895 | INFO     | server:predict:199 - latency
+2022-08-04 20:57:54.733 | INFO     | server:predict:203 - prediciton
+2022-08-04 20:57:54.736 | DEBUG    | server:predict:204 - Entertainment
+2022-08-04 20:58:16.965 | INFO     | server:predict:196 - timestamp
+2022-08-04 20:58:16.968 | INFO     | server:predict:197 - request
+2022-08-04 20:58:16.986 | DEBUG    | server:predict:198 - LIMA, Peru (Reuters) - Peruvian authorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday.
+2022-08-04 20:58:16.998 | INFO     | server:predict:199 - latency
+2022-08-04 20:58:18.843 | INFO     | server:predict:203 - prediciton
+2022-08-04 20:58:18.845 | DEBUG    | server:predict:204 - Entertainment
+2022-08-04 20:58:32.634 | INFO     | server:predict:196 - timestamp
+2022-08-04 20:58:32.636 | INFO     | server:predict:197 - request
+2022-08-04 20:58:32.639 | DEBUG    | server:predict:198 - With power forward Etan Thomas having missed the entire season, reserve forward Michael Ruffin has done well in taking his place.
+2022-08-04 20:58:32.642 | INFO     | server:predict:199 - latency
+2022-08-04 20:58:34.401 | INFO     | server:predict:203 - prediciton
+2022-08-04 20:58:34.403 | DEBUG    | server:predict:204 - Sports
